@@ -1,7 +1,10 @@
+<a>
+    <img src="https://komarev.com/ghpvc/?username=uditiarora">
+</a>
 ### Hi there 👋
-## I am Uditi Arora and I work as a software developer at Goldman Sachs, India.
-## I love to code and learn everything and anything related to tech. 
-## You can reach out to me at uditiarora@gmail.com.
+I am Uditi Arora and I work as a software developer at Goldman Sachs, India.
+I love to code and learn everything and anything related to tech. 
+You can reach out to me at uditiarora@gmail.com.
 
 <!--
 **uditiarora/uditiarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
