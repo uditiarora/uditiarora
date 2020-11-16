@@ -1,6 +1,3 @@
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=uditiarora">
-</a>
 ### Hi there 👋
 ## I am Uditi Arora and I work as a software developer at Goldman Sachs, India.
 ## I love to code and learn everything and anything related to tech. 
