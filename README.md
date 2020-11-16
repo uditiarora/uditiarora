@@ -1,5 +1,7 @@
 ### Hi there 👋
-(https://komarev.com/ghpvc/?username=uditiarora)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=uditiarora">
+</a>
 <!--
 **uditiarora/uditiarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
