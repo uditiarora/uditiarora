@@ -8,7 +8,7 @@
 - 💬 Ask me about React.js, UI/UX, Python, Java and Machine Learning.
 - 📫 How to reach me: Send me an email at uditiarora@gmail.com.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love origami. Checkout my instagram if that interests you [here](https://www.instagram.com/uditiarora).
+- ⚡ Fun fact: I love origami. Checkout my [instagram](https://www.instagram.com/uditiarora) if that interests you.
 
 ### 🐱My Github stats:
 <img src="https://komarev.com/ghpvc/?username=uditiarora">
