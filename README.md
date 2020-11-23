@@ -12,7 +12,7 @@
 
 ### 🐱My Github stats:
 <img src="https://komarev.com/ghpvc/?username=uditiarora">
-<img src="https://github-readme-stats.vercel.app/api?username=uditiarora&show_icons=true&theme=gotham" alt="uditiarora" />
+<img src="https://github-readme-stats.vercel.app/api?username=uditiarora&show_icons=true" alt="uditiarora" />
 <!--
 **uditiarora/uditiarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
